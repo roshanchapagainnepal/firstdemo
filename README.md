@@ -1,4 +1,5 @@
 # firstdemo
 this is my first git repo
 <br>
-Auther - Roshan Chapagain
+Auther - Roshan Chapagain from Nepal
+
